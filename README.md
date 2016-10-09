@@ -1,4 +1,4 @@
-# gmbd10: Global Map Bangladesh 1.1
+# gmbd11: Global Map Bangladesh 1.1
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
